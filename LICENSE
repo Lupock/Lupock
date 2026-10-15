@@ -1,0 +1,173 @@
+LUPOCK END USER LICENSE AGREEMENT
+
+Copyright (c) 2026 money_mountain. All rights reserved.
+
+This End User License Agreement ("Agreement") is between you (an individual or
+the organization you represent, "you") and money_mountain, the developer of
+Lupock ("Licensor"). It covers the Lupock desktop application, its installers,
+updates, bundled libraries written by Licensor, documentation, and any other
+files distributed in this repository or through Lupock's update feed
+(together, the "Software").
+
+By downloading, installing, or using the Software you agree to this Agreement.
+If you do not agree, do not download, install, or use the Software.
+
+
+1. LICENSE GRANT
+
+Subject to this Agreement, Licensor grants you a limited, personal,
+non-exclusive, non-transferable, non-sublicensable, revocable license to
+download, install, and use the Software, in its unmodified form as provided by
+Licensor, on devices you own or control.
+
+The Software is licensed, not sold. Licensor and its licensors keep all right,
+title, and interest in the Software, including all copies, updates, and
+intellectual property rights. All rights not expressly granted to you are
+reserved.
+
+
+2. RESTRICTIONS
+
+Except as expressly permitted by this Agreement or by applicable law that
+cannot be waived by contract, you must not, and must not allow anyone else to:
+
+  a. reverse engineer, decompile, disassemble, decrypt, or otherwise attempt to
+     derive the source code, structure, algorithms, file formats, encryption
+     keys, or protocols of the Software;
+  b. modify, adapt, translate, patch, or create derivative works of the
+     Software;
+  c. copy the Software, except for installing it as permitted above and keeping
+     the original installer for your own reinstallation;
+  d. sell, rent, lease, lend, sublicense, redistribute, mirror, rehost, bundle,
+     or otherwise make the Software or its installers available to any third
+     party, or offer them through any other download site or service;
+  e. bypass, disable, or interfere with any security or protection feature of
+     the Software, including closed-source macro protection, sealed or
+     encrypted macro builds, macro keys, interpreter integrity checks, update
+     signature checks, rate limits, or account controls;
+  f. extract, decrypt, copy, or redistribute macros, scripts, or other content
+     that another creator has published as closed source, or attempt to recover
+     such content from memory, disk, network traffic, or the running Software;
+  g. remove, alter, or obscure any copyright, trademark, license, or other
+     notice in the Software;
+  h. use the Software, or any part of it, to build a competing product or
+     service;
+  i. access or use Lupock's online services through any means other than the
+     Software or the official lupock.com website, or in a way that harms,
+     overloads, or disrupts those services.
+
+If applicable law gives you a right to reverse engineer the Software for
+interoperability that cannot be excluded by contract, you may exercise that
+right only to the extent the law allows, and only after first asking Licensor
+for the information you need at the contact address below.
+
+
+3. THIRD-PARTY COMPONENTS
+
+The Software includes third-party components that are distributed under their
+own licenses, which are listed in THIRD_PARTY_NOTICES.md and
+THIRD_PARTY_LICENSES.txt shipped with the Software. In particular:
+
+  - AutoHotkey v2 is included as a separate, unmodified program under the GNU
+    General Public License, version 2. Its source code is available as stated
+    in THIRD_PARTY_NOTICES.md.
+  - The AutoHotkey v2 language server is used under the GNU Lesser General
+    Public License, version 3. It is installed as a separate, replaceable
+    file, and its source code is available as stated in
+    THIRD_PARTY_NOTICES.md. Section 2 does not restrict you from modifying
+    or replacing that component, or from reverse engineering the Software
+    to the extent needed to debug such modifications.
+
+Nothing in this Agreement limits any right you have under those licenses for
+those components. Those licenses apply only to those components and do not
+extend to the rest of the Software.
+
+
+4. YOUR CONTENT
+
+Macros, scripts, projects, and other content you create with the Software
+("Your Content") belong to you. This Agreement does not give Licensor any
+rights to Your Content. If you publish Your Content to Lupock's online
+community, the Lupock Terms of Service at https://lupock.com/terms govern that
+publication.
+
+You are responsible for Your Content and for how you use the Software,
+including complying with the terms of service, rules, and anti-cheat policies
+of any game, website, or application you automate. Licensor is not responsible
+for any action a third party takes against you or your accounts because of
+your use of the Software.
+
+
+5. ONLINE SERVICES AND PRIVACY
+
+Some features (accounts, the community, macro publishing and updates, sync)
+connect to online services operated by Licensor. Your use of those services is
+also governed by the Lupock Terms of Service (https://lupock.com/terms) and
+Privacy Policy (https://lupock.com/privacy). Licensor may change, suspend, or
+discontinue any online service at any time.
+
+
+6. UPDATES
+
+The Software may check for, download, and install updates automatically.
+Updates are covered by this Agreement unless they come with different terms.
+Licensor is not required to provide updates, support, or maintenance.
+
+
+7. TERMINATION
+
+This Agreement is effective until terminated. Your rights under it end
+automatically, without notice, if you fail to comply with any of its terms.
+Licensor may also terminate it at any time by notice to you. When it ends, you
+must stop using the Software and delete all copies in your possession.
+Sections 2, 3, 4, 7, 8, 9, 10, and 11 survive termination.
+
+
+8. DISCLAIMER OF WARRANTIES
+
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY
+KIND. TO THE MAXIMUM EXTENT PERMITTED BY LAW, LICENSOR DISCLAIMS ALL
+WARRANTIES, WHETHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND
+NON-INFRINGEMENT, AND ANY WARRANTY THAT THE SOFTWARE WILL BE UNINTERRUPTED,
+ERROR-FREE, SECURE, OR FREE OF HARMFUL COMPONENTS. MACROS PUBLISHED BY OTHER
+USERS ARE NOT CREATED OR ENDORSED BY LICENSOR, AND YOU RUN THEM AT YOUR OWN
+RISK.
+
+
+9. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT WILL LICENSOR BE LIABLE
+FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE
+DAMAGES, OR FOR ANY LOSS OF DATA, PROFITS, REVENUE, ACCOUNTS, OR GOODWILL,
+ARISING OUT OF OR RELATED TO THE SOFTWARE OR THIS AGREEMENT, EVEN IF ADVISED
+OF THE POSSIBILITY OF SUCH DAMAGES. LICENSOR'S TOTAL LIABILITY FOR ALL CLAIMS
+RELATED TO THE SOFTWARE WILL NOT EXCEED THE AMOUNT YOU PAID FOR THE SOFTWARE,
+OR TEN US DOLLARS (USD 10) IF YOU PAID NOTHING.
+
+Some jurisdictions do not allow certain exclusions or limitations, so some of
+the above may not apply to you. In that case they apply to the fullest extent
+the law allows.
+
+
+10. GENERAL
+
+  - Severability. If any part of this Agreement is held unenforceable, that
+    part will be enforced to the maximum extent possible and the rest stays in
+    effect.
+  - No waiver. Failing to enforce any part of this Agreement is not a waiver
+    of the right to enforce it later.
+  - Assignment. You may not assign or transfer this Agreement. Licensor may
+    assign it without restriction.
+  - Changes. Licensor may update this Agreement. The version included with a
+    release of the Software applies to that release. Continuing to use the
+    Software after an update means you accept the updated Agreement.
+  - Entire agreement. This Agreement, together with the Terms of Service and
+    Privacy Policy referenced above, is the entire agreement between you and
+    Licensor about the Software.
+
+
+11. CONTACT
+
+Questions about this Agreement, or requests under Section 2:
+money_mountain (Peacock Sir), peacocksir101@gmail.com
